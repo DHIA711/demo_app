@@ -91,7 +91,7 @@
     "repositories": {
         "phpunit-bridge": {
             "type": "path",
-            "url": "/home/dhiasaria/sip/SIP Academy/SIP Academy_proj/integration-continue-d-un-projet-symfony-5-avec-gitlab-ci/vendor/symfony/phpunit-bridge"
+            "url": "/home/dhiasaria/sip/SIP Academy/SIP Academy_proj/demo_app/vendor/symfony/phpunit-bridge"
         }
     }
 }
